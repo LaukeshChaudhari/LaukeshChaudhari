@@ -1,7 +1,7 @@
 # Hi, I'm Laukesh Chaudhari 👋
 
 🚀 Passionate about building innovative AI solutions in Generative AI, NLP, and MLOps.  
-🎓 BTech Graduate | Aspiring AGI Researcher | GATE CS Aspirant  
+🎓 BTech Graduate | Aspiring AGI Researcher
 📚 Currently working on fine-tuning GPT models for real-world applications.
 
 ---
