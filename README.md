@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Laukesh Chaudhari 👋
 
-<!--
-**LaukeshChaudhari/LaukeshChaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building innovative AI solutions in Generative AI, NLP, and MLOps.  
+🎓 BTech Graduate | Aspiring AGI Researcher | GATE CS Aspirant  
+📚 Currently working on fine-tuning GPT models for real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- **Programming**: Python, SQL, JavaScript  
+- **AI/ML Frameworks**: TensorFlow, PyTorch, Hugging Face, LangChain  
+- **Tools**: Docker, Kubernetes, AWS, Azure  
+- **Databases**: MySQL, MongoDB  
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/laukesh-chaudhari-)  
+- Email: laukesh.chaudhari@example.com  
