@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Skills  
-- **Programming**: Python, SQL, JavaScript  
+- **Programming**: Python, SQL  
 - **AI/ML Frameworks**: TensorFlow, PyTorch, Hugging Face, LangChain  
 - **Tools**: Docker, Kubernetes, AWS, Azure  
 - **Databases**: MySQL, MongoDB  
